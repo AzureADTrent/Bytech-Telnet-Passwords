@@ -4,7 +4,9 @@ This is repo for keeping track of the Bytech BY-CM-WF-101-WT credentials found o
 ## These are the default passwords for each account to login over telnet
 ### User
 username: user
+
 password: user123
 ### Root
 username: root
+
 password: hellotuya
